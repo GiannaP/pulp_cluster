@@ -82,3 +82,7 @@ hwpe-datamover-example:
   commit: v1.0
   group: pulp-platform
   domain: [cluster, pulp]
+rbe:
+  commit: verification
+  group: pulp-restricted
+  server: git@iis-git.ee.ethz.ch
